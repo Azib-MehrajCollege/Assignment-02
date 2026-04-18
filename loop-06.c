@@ -10,4 +10,5 @@ int main() {
         num2=fib;
         printf("%d \t", fib);
     }
+    return 0;
 }

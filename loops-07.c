@@ -10,5 +10,5 @@ int main() {
         n/=10;
     }
     printf("%d", rev);
-
+    return 0;
 }
